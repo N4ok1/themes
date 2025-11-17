@@ -10,9 +10,9 @@
   --main-content-color: rgba(var(--main-rgb), var(--main-content-opacity));
   --sidebar-color: rgba(var(--main-rgb), var(--sidebar-opacity));
   /* ACCENT HSL AND TEXT COLOR SETTINGS */
-  --accent-hue: 360;
-  --accent-saturation: 77.5%;
-  --accent-lightness: 47.1%;
+  --accent-hue: 244;
+  --accent-saturation: 100%;
+  --accent-lightness: 41%;
   --accent-hsl: var(--accent-hue),calc(var(--accent-saturation) * var(--saturation-factor)),var(--accent-lightness);
   --accent-opacity: 1;
   --accent-text-color: hsl(0,0%,0%);
@@ -6646,3 +6646,4 @@ body {
 }
 
 /*# sourceMappingURL=main.css.map */
+
